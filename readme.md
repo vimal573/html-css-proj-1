@@ -8,7 +8,7 @@
 
 ![Live class](https://img.shields.io/badge/LIVE--CLASS-PROJECT--1-lightgrey)
 
-![name](https://img.shields.io/badge/Vimal--Kumar-r-lightgrey)
+![name](https://img.shields.io/badge/Vimal--Kumar-lightgrey)
 
 ## Project 1 [Live Link](https://street-stylelandingpage.netlify.app/)
 
